@@ -1,6 +1,7 @@
 # mikalu
 verilog alu!
 
+**Contraints are for Nexys 4 Non-DDR**
 
 Hierarchy:
 
